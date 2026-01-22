@@ -32,9 +32,21 @@ pip install -r requirements.txt
 cd app
 streamlit run app.py
 ```
+
+## Model Weights
+The trained model file is not included in this repository due to GitHub file size limits.
+
+📥 Download the trained model here:  
+https://drive.google.com/file/d/17vZpc829ZCHAwBlvDGjqrqz3TxcICwPK
+
+After downloading, place the file inside:
+model/
+
+
 ## Dataset source
 The data set used to train the model in this demo was PlantVillage dataset which can be obtained from this url:
 https://www.kaggle.com/datasets/emmarex/plantdisease
+
 
 
 
