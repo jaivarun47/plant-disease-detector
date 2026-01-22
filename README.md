@@ -26,9 +26,6 @@ venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
-python -m venv venv
-venv\Scripts\activate # Windows # source venv/bin/activate  # Linux / macOS  
-
 ## How to Run
 ```bash
 pip install -r requirements.txt
@@ -38,6 +35,7 @@ streamlit run app.py
 ## Dataset source
 The data set used to train the model in this demo was PlantVillage dataset which can be obtained from this url:
 https://www.kaggle.com/datasets/emmarex/plantdisease
+
 
 
 
