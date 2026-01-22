@@ -7,7 +7,7 @@ CNN-based plant leaf disease classification system trained on the PlantVillage d
 - Streamlit
 - Python
 
-##🔧 Prerequisites
+## Prerequisites
 To run this project locally, ensure the following are installed:
 Python 3.10.x
 pip
@@ -32,4 +32,5 @@ streamlit run app.py
 ## Dataset source
 The data set used to train the model in this demo was PlantVillage dataset which can be obtained from this url:
 https://www.kaggle.com/datasets/emmarex/plantdisease
+
 
