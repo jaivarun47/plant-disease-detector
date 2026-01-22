@@ -21,9 +21,7 @@ git clone https://github.com/jaivarun47/plant-disease-detector.git
 cd plant-disease-detector
 
 python -m venv venv
-venv\Scripts\activate   # Windows
-# source venv/bin/activate  # Linux / macOS
-  
+venv\Scripts\activate # Windows # source venv/bin/activate  # Linux / macOS  
 
 ## How to Run
 ```bash
@@ -34,3 +32,4 @@ streamlit run app.py
 ## Dataset source
 The data set used to train the model in this demo was PlantVillage dataset which can be obtained from this url:
 https://www.kaggle.com/datasets/emmarex/plantdisease
+
